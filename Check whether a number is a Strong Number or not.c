@@ -26,7 +26,7 @@ int main()
         printf("%d is a strong number",n);
     }
     else
-        printf("Not a perfect number");
+        printf("Not a strong number");
 
     return 0;
 }
